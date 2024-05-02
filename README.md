@@ -2,23 +2,19 @@
 - Python programming for Science and Technology Computing.
 - Python basic grammar and hands-on techniques for Research and Development.
 
-## T1: Rocket Simulator
-
-## T2: IPython & Spyder
-
-## T3: Python Review
+## T1: Python Review
 ### CH1: Python Basic
 ### CH2: Class & Object
 ### CH3: Input & Output
 
-## T4: NumPy
+## T2: NumPy
 
-## T5: SciPy
+## T3: SciPy
 
-## T6: matplotlib
+## T4: matplotlib
 
-## T7: Pandas
+## T5: Pandas
 
-## T8: Program Optimization
+## T6: Program Optimization
 
-## T9: Program Optimization - Application
+## T7: Program Optimization - Application
