@@ -2,19 +2,14 @@
 - Python programming for Science and Technology Computing.
 - Python basic grammar and hands-on techniques for Research and Development.
 
-## T1: Python Review
-### CH1: Python Basic
-### CH2: Class & Object
-### CH3: Input & Output
+## T1: NumPy
 
-## T2: NumPy
+## T2: SciPy
 
-## T3: SciPy
+## T3: matplotlib
 
-## T4: matplotlib
+## T4: Pandas
 
-## T5: Pandas
+## T5: Program Optimization
 
-## T6: Program Optimization
-
-## T7: Program Optimization - Application
+## T6: Program Optimization - Application
